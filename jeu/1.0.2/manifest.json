@@ -1,0 +1,20 @@
+{
+  "game": "ile-du-roi-liche",
+  "version": "1.0.2",
+  "tag": "v1.0.2",
+  "date": "2026-10-12T15:23:49.884Z",
+  "exe": "IleDuRoiLiche.exe",
+  "notes": "• Le jeu se lance maintenant uniquement avec le launcher (il vérifie et répare les fichiers avant chaque partie).\r\n  Lancé autrement, il propose de télécharger le launcher.",
+  "files": [
+    {
+      "name": "IleDuRoiLiche.exe",
+      "size": 109152256,
+      "sha256": "cb5f25bc2878ce7f689981d32099b7704f026b95b5b2240a21ce43f0ca145e80"
+    },
+    {
+      "name": "IleDuRoiLiche.pck",
+      "size": 18096164,
+      "sha256": "99e1f6659aac05dee3a335d6b424fd135dd4e4c82abd762abefa7246cd9a2b86"
+    }
+  ]
+}
