@@ -1,0 +1,20 @@
+{
+  "game": "ile-du-roi-liche",
+  "version": "1.0.1",
+  "tag": "v1.0.1",
+  "date": "2026-10-12T14:51:39.143Z",
+  "exe": "IleDuRoiLiche.exe",
+  "notes": "• La sauvegarde est maintenant chiffrée : elle ne peut plus être modifiée en dehors du jeu.\r\n  Ta partie actuelle est convertie automatiquement à la première sauvegarde (une copie de l'ancienne est gardée).\r\n• Le launcher vérifie les fichiers du jeu à chaque lancement et répare tout seul ce qui a été modifié.",
+  "files": [
+    {
+      "name": "IleDuRoiLiche.exe",
+      "size": 109152256,
+      "sha256": "4ac4414a1f4579e8c0b60bd7a8191db0ca466dc10e7fbda4876ada27770f918f"
+    },
+    {
+      "name": "IleDuRoiLiche.pck",
+      "size": 18093976,
+      "sha256": "a71cb96f3235f83405ce5fdedd68115957fa1b79752990a006dc6c7d34944ddb"
+    }
+  ]
+}
