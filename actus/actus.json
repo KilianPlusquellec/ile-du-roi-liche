@@ -1,0 +1,92 @@
+{
+  "game": "ile-du-roi-liche",
+  "schema": 1,
+  "date": "2026-10-13T17:29:05.265Z",
+  "updates": [
+    {
+      "product": "jeu",
+      "version": "1.0.1",
+      "date": "2026-10-12",
+      "notes": "• La sauvegarde est maintenant chiffrée : elle ne peut plus être modifiée en dehors du jeu.\n  Ta partie actuelle est convertie automatiquement à la première sauvegarde (une copie de l'ancienne est gardée).\n• Le launcher vérifie les fichiers du jeu à chaque lancement et répare tout seul ce qui a été modifié."
+    },
+    {
+      "product": "jeu",
+      "version": "1.0.2",
+      "date": "2026-10-12",
+      "notes": "• Le jeu se lance maintenant uniquement avec le launcher (il vérifie et répare les fichiers avant chaque partie).\n  Lancé autrement, il propose de télécharger le launcher."
+    },
+    {
+      "product": "jeu",
+      "version": "1.0.3",
+      "date": "2026-10-13",
+      "notes": "• Le jeu en ligne arrive : une île partagée pour jouer à plusieurs, sur notre serveur.\n  Il est d'abord ouvert à quelques invités (bêta fermée) : clique sur « Jouer en ligne » dans le launcher.\n• En solo, rien ne change : ta partie, ton camp et tes quêtes restent les mêmes."
+    },
+    {
+      "product": "jeu",
+      "version": "1.0.0",
+      "date": "2026-10-12",
+      "notes": "La première version complète de L'Île du Roi-Liche !\n\n• Trois zones à explorer : la Vallée verte, la Forêt sombre et les Pics gelés.\n• Trois classes (Guerrier, Mage, Druide) et leurs talents.\n• Deux donjons : la Grotte des gobelins et la Crypte oubliée.\n• Construis ton camp et défends-le : une nuit sur trois, les monstres attaquent.\n• Forge, potions et cuisine pour t'équiper.\n• L'histoire complète, jusqu'au combat contre le Roi-Liche.\n• Réglages : qualité graphique (Basse / Moyenne / Haute) pour les PC moins puissants."
+    },
+    {
+      "product": "launcher",
+      "version": "1.0.0",
+      "date": "2026-10-13",
+      "notes": "• Première version du launcher : il installe L'Île du Roi-Liche, le tient à jour et se met à jour tout seul.\n• Une fenêtre d'installation aux couleurs du jeu."
+    },
+    {
+      "product": "launcher",
+      "version": "1.0.1",
+      "date": "2026-10-13",
+      "notes": "• Les versions du jeu sont vérifiées grâce à un index signé.\n• Les fichiers du jeu sont vérifiés avant chaque partie, et réparés s'ils ont été modifiés."
+    },
+    {
+      "product": "launcher",
+      "version": "1.0.2",
+      "date": "2026-10-13",
+      "notes": "• Les mises à jour du launcher arrivent plus vite (chaque version a sa propre release)."
+    },
+    {
+      "product": "launcher",
+      "version": "1.0.3",
+      "date": "2026-10-13",
+      "notes": "• Le launcher donne au jeu un ticket signé : le jeu ne se lance plus sans lui.\n• Il prévient quand une version du jeu demande un launcher plus récent."
+    }
+  ],
+  "server": [
+    {
+      "date": "2026-10-13",
+      "title": "Connexion avec Discord",
+      "text": "Pour jouer en ligne, tu te connecteras une fois avec ton compte Discord depuis le launcher : ton personnage sera lié à ce compte, et personne d'autre ne pourra le prendre. Le launcher ne voit jamais ton mot de passe, et la connexion est gardée 30 jours sur ton PC.\n\nUn bouton « Jouer en ligne » apparaîtra dans le launcher à côté de « Jouer en solo » le jour où le serveur ouvrira. Prochaine étape : la sécurité du serveur, puis son installation."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "La bêta fermée",
+      "text": "Le serveur a passé ses essais : seize joueurs à la fois, des tricheurs, une coupure brutale et une restauration de sauvegarde. Il ouvre d'abord à quelques amis, sur invitation, pendant deux semaines.\n\nSi tu es invité, connecte-toi avec Discord dans le launcher puis clique sur « Jouer en ligne ». Si le serveur te refuse, il t'affiche ton identifiant : envoie-le à l'administrateur. Les bugs se remontent dans le salon Discord de la bêta."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Le serveur est installé",
+      "text": "L'île en ligne tourne maintenant sur son serveur, à l'adresse jeu.kilianplusquellec.fr : les échanges sont chiffrés, le monde est enregistré à chaque arrêt et sauvegardé chaque nuit.\n\nIl n'est pas encore ouvert à tous : prochaine étape, les mises à jour du serveur et son état affiché dans le launcher, puis quelques semaines d'essai avec des amis."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Le serveur multijoueur se prépare",
+      "text": "On construit un serveur pour jouer à plusieurs sur la même île, jusqu'à 16 joueurs, en coopération.\n\nCe qui marche déjà en test : les joueurs se voient bouger, combattent les mêmes monstres (chacun reçoit sa récompense), coupent les mêmes arbres, construisent un camp commun et explorent les donjons ensemble.\n\nProchaines étapes : garder ton personnage en ligne sur le serveur, la connexion avec Discord depuis le launcher, puis l'installation du serveur. Une bêta avec quelques joueurs viendra ensuite. Le solo reste là, avec sa propre sauvegarde."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Les mises à jour du serveur",
+      "text": "Quand le serveur sera mis à jour, tu seras prévenu en jeu quelques minutes avant, et ton personnage sera enregistré avant l'arrêt. La coupure ne dure que quelques secondes.\n\nLe launcher affichera aussi l'état du serveur en bas : en ligne avec le nombre de joueurs, en maintenance, ou hors ligne. Prochaine étape : quelques semaines d'essai avec des amis avant l'ouverture."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Ton personnage reste sur le serveur",
+      "text": "Le serveur garde maintenant ton personnage : en te reconnectant, tu retrouves ton niveau, ton sac, ton équipement et tes quêtes, là où tu les avais laissés. Le camp construit à plusieurs, le jour et l'heure de l'île sont gardés aussi, même si le serveur redémarre.\n\nProchaines étapes : la connexion avec Discord depuis le launcher (pour que ton personnage soit bien à toi), puis l'installation du serveur. Le solo ne change pas et garde sa propre sauvegarde."
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Un serveur protégé",
+      "text": "Le serveur vérifie maintenant tout ce que les joueurs lui envoient : un jeu modifié qui essaie de se téléporter, de lancer des sorts sans attendre ou d'inonder le serveur de messages est bloqué, puis exclu. Les échanges entre ton jeu et le serveur seront chiffrés.\n\nLes administrateurs pourront exclure ou bannir un joueur qui gâche la partie des autres. Prochaine étape : l'installation du serveur, pour ouvrir l'île en ligne."
+    }
+  ]
+}
