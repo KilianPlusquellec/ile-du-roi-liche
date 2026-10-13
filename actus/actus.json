@@ -1,7 +1,7 @@
 {
   "game": "ile-du-roi-liche",
   "schema": 1,
-  "date": "2026-10-13T17:29:05.265Z",
+  "date": "2026-10-13T17:30:51.219Z",
   "updates": [
     {
       "product": "jeu",
@@ -50,6 +50,12 @@
       "version": "1.0.3",
       "date": "2026-10-13",
       "notes": "• Le launcher donne au jeu un ticket signé : le jeu ne se lance plus sans lui.\n• Il prévient quand une version du jeu demande un launcher plus récent."
+    },
+    {
+      "product": "launcher",
+      "version": "1.0.4",
+      "date": "2026-10-13",
+      "notes": "• Nouveau look : barre de titre intégrée, images du jeu qui défilent en fond, état du jeu plus lisible.\n• Nouvel onglet Actus : l'historique des mises à jour du jeu et du launcher, et les nouvelles du serveur.\n• Le jeu en ligne : connexion avec ton compte Discord, bouton « Jouer en ligne », et l'état du serveur en bas (en ligne, maintenance...).\n• Launcher ouvert, il regarde toutes les 10 minutes si une nouvelle version du jeu est sortie."
     }
   ],
   "server": [
