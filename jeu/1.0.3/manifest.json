@@ -1,0 +1,20 @@
+{
+  "game": "ile-du-roi-liche",
+  "version": "1.0.3",
+  "tag": "v1.0.3",
+  "date": "2026-10-13T17:28:28.384Z",
+  "exe": "IleDuRoiLiche.exe",
+  "notes": "• Le jeu en ligne arrive : une île partagée pour jouer à plusieurs, sur notre serveur.\r\n  Il est d'abord ouvert à quelques invités (bêta fermée) : clique sur « Jouer en ligne » dans le launcher.\r\n• En solo, rien ne change : ta partie, ton camp et tes quêtes restent les mêmes.",
+  "files": [
+    {
+      "name": "IleDuRoiLiche.exe",
+      "size": 109152256,
+      "sha256": "db6facc2f4446bc1f34f097239aadc4c1582d35b9fe087bb8d0b31b812d5810f"
+    },
+    {
+      "name": "IleDuRoiLiche.pck",
+      "size": 18189260,
+      "sha256": "1b442d59e7905e690680f1c791518f45d943e07dfa637d09deb353d972f3e372"
+    }
+  ]
+}

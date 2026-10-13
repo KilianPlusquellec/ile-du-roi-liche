@@ -1,12 +1,12 @@
 {
   "game": "ile-du-roi-liche",
   "schema": 1,
-  "sequence": 2,
-  "version": "1.0.2",
-  "tag": "v1.0.2",
-  "manifest": "1.0.2/manifest.json",
-  "sha256": "09b40be6f8f60c09db48a992bcd291e47051bfbc72392b017b8b031d63f66aa8",
-  "size": 666,
-  "date": "2026-10-12T15:23:49.884Z",
+  "sequence": 3,
+  "version": "1.0.3",
+  "tag": "v1.0.3",
+  "manifest": "1.0.3/manifest.json",
+  "sha256": "54170fec19aeb316e0b215f899f7ef539897961c03831ff376fbbd00074d3236",
+  "size": 780,
+  "date": "2026-10-13T17:28:28.384Z",
   "launcher_min": "1.0.3"
 }
